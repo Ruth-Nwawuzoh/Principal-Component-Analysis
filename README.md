@@ -18,6 +18,7 @@ This project implements PCA to reduce the dimensionality of the Breast Cancer da
 
                                                       
 ## Files Included
+- 'Principal_Component_Analysis.zip': Consists of the README and Python script. Download and unzip to access all files.
 - 'Principal_Component_Analysis.ipynb': Contains the code for the assignment.
 - 'README.md': Explains the project structure and instructions.
 
